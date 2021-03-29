@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "https://github.com/canisminor1990/demo.git",
   "author": "倏昱 <yufan.yyf@antgroup.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js && clear && node ./start.js "
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "child_process": "^1.0.2",
+    "inquirer-promise": "^1.0.0"
+  }
 }

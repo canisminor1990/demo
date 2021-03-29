@@ -1,0 +1,48 @@
+# python env
+.python-version
+
+.idea
+
+# build artefacts
+kitchen3.sketchplugin/
+kitchen_vip.sketchplugin/
+kitchen.zip
+kitchen3.zip
+kitchen_vip.zip
+.sketch_supports
+.gitmodules/
+kitchen.sketchplugin.zip
+
+# npm
+node_modules
+.npm
+npm-debug.log
+npm-debug.log.*
+dist
+
+# mac
+.vscode
+.DS_Store
+
+# temp
+
+.temp
+.tmp
+
+/src/config.json
+
+Ant.Design.Mobile.sketch
+Ant.Design.sketch
+.node
+
+.umi
+.umi-production
+
+package-lock.json
+
+# cache
+
+.cache--happypack
+
+# xcode build
+Kitchen/Kitchen.xcodeproj/
